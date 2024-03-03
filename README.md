@@ -1,0 +1,1 @@
+Basically in this i have integrated two major tools in devops that are git which is used for source code management and docker for containerisation. I have integrated these both tools using jenkins freestyle project and have deployed this on nginx server.
